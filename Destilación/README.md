@@ -1,9 +1,9 @@
 # Simulador para el Diseño de Procesos de Separación por Destilación mediante el método de McCabe Thiele
 
 # Descripción de los archivos de la Carpeta:
--"columna.jpg": Imagen de la columna de destilación de la interfaz.
--"Simulador.pyw": Código principal de la interfaz.
--"Tabla Antoine.csv": Base de Datos con constantes de Antoine para la interfaz.
+-"columna.jpg": Imagen de la columna de destilación de la interfaz. 
+-"Simulador.pyw": Código principal de la interfaz. 
+-"Tabla Antoine.csv": Base de Datos con constantes de Antoine para la interfaz. 
 
 # Instrucciones:
 Pasos para ejecutar el simulador:
