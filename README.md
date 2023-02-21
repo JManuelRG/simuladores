@@ -1,1 +1,1 @@
-# Archivos del simulador del Método de McCabe Thiele
+# Aquí iré compartiendo diversos simuladores que he desarrollado para Ingeniería
