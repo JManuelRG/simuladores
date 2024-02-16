@@ -382,8 +382,8 @@ def leermezcla():
             plt.text(0.65, 0.33, textstr1, fontsize=8, verticalalignment='bottom', bbox=props)
             plt.text(0.65, 0.0, textstr2, fontsize=8, verticalalignment='bottom', bbox=props)
             #  Configuración general del grafico
-            plt.grid(b=True, which='major',linestyle=':',alpha=0.6)
-            plt.grid(b=True, which='minor',linestyle=':',alpha=0.3)
+            plt.grid(True, which='major',linestyle=':',alpha=0.6)
+            plt.grid(True, which='minor',linestyle=':',alpha=0.3)
             plt.minorticks_on()
             plt.legend(loc='upper left',
                        shadow=True)
